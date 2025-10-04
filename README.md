@@ -20,7 +20,12 @@ Achieved 92% mAP, can detect real-time with ~25 FPS on camera CCTV for construct
 ## 📌 Example Demo
 Helmet ✅ (green) | No Helmet ❌ (red)
 
-![Helmet Detection Demo](demo.gif)
+![gifdemo](https://github.com/user-attachments/assets/7c5e84a8-0450-49ec-9790-fd6cd22f07da)
+
+
+
+
+
 
 ---
 
@@ -63,7 +68,8 @@ pip install -r requirements.txt
 #### 🌐 API (FastAPI):
 - Run backend:
 uvicorn app:app --host 0.0.0.0 --port 8000 --reload
-Docs: http://127.0.0.1:8000/docs
+
+API available at: http://127.0.0.1:8000/docs
 
 #### 💻 UI (Streamlit):
 - Run UI:
