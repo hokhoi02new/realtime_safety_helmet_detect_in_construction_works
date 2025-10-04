@@ -55,6 +55,11 @@ detect_workers_without_helmets_in_construction_site/
 │── requirements.txt 
 │── README.md
 ```
+⚠️ Note: The `dataset/` folders and `faster_rcnn/fasterrcnn.pth` saved models are empty in this repository because the files are too large for GitHub.  
+You can download them from the following links:
+
+- **Dataset**: https://drive.google.com/drive/folders/1KT41S-1LHofH9k4G0flQd6Ne4B-HUIKz?usp=drive_link
+- **faster_rcnn/fasterrcnn.pth**: https://drive.google.com/drive/folders/1qzCErR2joFjOoJnSe8atX-rKtPtFZg2U?usp=drive_link
 
 ---
 
