@@ -65,8 +65,8 @@ You can download them from the following links:
 
 ## ⚙️ Usage
 ```bash
-git clone https://github.com/hokhoi02new/detect_workers_without_helmets_in_construction_site.git
-cd detect_workers_without_helmets_in_construction_site
+git clone https://github.com/hokhoi02new/realtime_safety_helmet_detect_in_construction_works.git
+cd realtime_safety_helmet_detect_in_construction_works
 pip install -r requirements.txt
 ```
 
